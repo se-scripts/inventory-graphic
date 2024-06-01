@@ -1,4 +1,4 @@
-# inventory-graphic
+![image](https://github.com/se-scripts/inventory-graphic/assets/46225881/f4277ed8-1ba1-4fa5-a385-2a8eb88216a3)# inventory-graphic
 Graphical inventory display for LCD by Space Engineers Script.
 
 太空工程师，图形化显示库存脚本。
@@ -12,6 +12,14 @@ Graphical inventory display for LCD by Space Engineers Script.
 
 - [Hi.James](https://space.bilibili.com/368005035)
 - [li-guohao](https://github.com/li-guohao)
+
+# 功能
+
+- 图形化显示物料。
+- 图形化显示库存使用量，并带进度条展示。
+- 图形化显示氢、氧气罐余量，并带进度条显示。
+- [新]图形化显示电池余量，并带进度条显示。
+
 
 # 配置
 
