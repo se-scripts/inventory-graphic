@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventory-graphic", "inventory-graphic.csproj", "{4B0A847F-E73C-4DAA-A2AF-1C62ECE8F772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0A847F-E73C-4DAA-A2AF-1C62ECE8F772}.Debug|x64.ActiveCfg = Debug|x64
+		{4B0A847F-E73C-4DAA-A2AF-1C62ECE8F772}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697DAB72-4C25-4AF9-8926-BA3FDBEF672F}
+	EndGlobalSection
+EndGlobal
