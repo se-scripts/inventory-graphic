@@ -25,7 +25,7 @@ namespace IngameScript
         /*
         * R e a d m e
         * -----------
-        * Graphical inventory display for LCD.
+        * Graphical inventory display for LCD by Space Engineers Script.
         * 
         * @see <https://github.com/malware-dev/MDK-SE/wiki>
         * @see <https://github.com/li-guohao/se-scritps>
