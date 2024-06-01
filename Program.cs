@@ -26,10 +26,9 @@ namespace IngameScript
         * R e a d m e
         * -----------
         * Graphical inventory display for LCD by Space Engineers Script.
+        * 太空工程师，图形化显示库存脚本。
         * 
-        * @see <https://github.com/malware-dev/MDK-SE/wiki>
-        * @see <https://github.com/li-guohao/se-scritps>
-        * @see <https://www.bilibili.com/read/cv27778300/>
+        * @see <https://github.com/se-scripts/inventory-graphic>
         * @author [Hi.James](https://space.bilibili.com/368005035)
         * @author [li-guohao](https://space.bilibili.com/3493285257546598)
         */
