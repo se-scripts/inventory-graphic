@@ -11,6 +11,6 @@ Graphical inventory display for LCD by Space Engineers Script.
 # 作者
 
 - [Hi.James](https://space.bilibili.com/368005035)
-- [li-guohao](https://space.bilibili.com/3493285257546598)
+- [li-guohao](https://github.com/li-guohao)
 
 

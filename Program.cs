@@ -30,7 +30,7 @@ namespace IngameScript
         * 
         * @see <https://github.com/se-scripts/inventory-graphic>
         * @author [Hi.James](https://space.bilibili.com/368005035)
-        * @author [li-guohao](https://space.bilibili.com/3493285257546598)
+        * @author [li-guohao](https://github.com/li-guohao)
         */
 
         MyIni _ini = new MyIni();
