@@ -1,5 +1,4 @@
 # inventory-graphic
-![image](https://github.com/se-scripts/inventory-graphic/assets/46225881/f4277ed8-1ba1-4fa5-a385-2a8eb88216a3)
 Graphical inventory display for LCD by Space Engineers Script.
 
 太空工程师，图形化显示库存脚本。
@@ -41,4 +40,6 @@ Graphical inventory display for LCD by Space Engineers Script.
 | LCD_Component_Inventory_Display:X  | 单独显示零件 |
 | LCD_Ore_Inventory_Display:X  | 单独显示矿石 |
 | LCD_AmmoMagazine_Inventory_Display:X  | 单独显示弹药 |
+
+
 
