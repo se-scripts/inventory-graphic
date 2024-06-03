@@ -33,6 +33,7 @@ namespace IngameScript
         * @author [Hi.James](https://space.bilibili.com/368005035)
         * @author [li-guohao](https://github.com/li-guohao)
         */
+        const string version = "1.0.0";
 
         MyIni _ini = new MyIni();
 
@@ -220,7 +221,7 @@ namespace IngameScript
 
             float x = 512 / 2, y1 = 205;
             DrawLogo(frame, x, y1, 200);
-            PanelWriteText(frame, "Graphic Inventory Dispaly\nIn LCDs\nby Hi.James and li-guohao.", x, y1 + 110, 1f, TextAlignment.CENTER);
+            PanelWriteText(frame, "Graphic Inventory Dispaly\nIn LCDs With Version " + version + "\nBy Hi.James and li-guohao.", x, y1 + 110, 1f, TextAlignment.CENTER);
 
             frame.Dispose();
 
