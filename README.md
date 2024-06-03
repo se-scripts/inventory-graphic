@@ -38,7 +38,6 @@ Graphical inventory display for LCD by Space Engineers Script.
 | LCD_Ore_Inventory_Display:X  | 单独显示矿石 |
 | LCD_Ingot_Inventory_Display:X  | 单独显示矿锭 |
 | LCD_Component_Inventory_Display:X  | 单独显示零件 |
-| LCD_Ore_Inventory_Display:X  | 单独显示矿石 |
 | LCD_AmmoMagazine_Inventory_Display:X  | 单独显示弹药 |
 
 
