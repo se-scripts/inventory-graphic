@@ -15,7 +15,7 @@ Graphical inventory display for LCD by Space Engineers Script.
 ![image](https://github.com/se-scripts/inventory-graphic/assets/46225881/c9da6269-6c71-4e49-b25e-9e928ebe86c4)
 
 结束行
-![image](https://github.com/se-scripts/inventory-graphic/assets/46225881/c54d10d9-b706-4ffd-aebf-6e9426e11925)
+![image](https://github.com/se-scripts/inventory-graphic/assets/46225881/6740f7e2-f7e6-4f36-ab58-08f4d856180e)
 
 
 # 来源
